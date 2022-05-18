@@ -30,6 +30,11 @@ section, summary, time, mark, audio, video {
 	font-size:50px;
 	background:linear-gradient(transparent 40%, rgb(244, 213, 231) 0%);
     display: inline-block;
+	line-height:50px;
+}
+
+.title{
+    font-weight: 600;
 }
 
 .btn{
