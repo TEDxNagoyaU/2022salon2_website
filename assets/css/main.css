@@ -42,6 +42,14 @@ section, summary, time, mark, audio, video {
 	background-color: rgb(230, 63, 180);
 }
 
+.aisatu{
+	margin: 2em auto;
+	padding: 1em;
+	width: 100%;
+	border: 5px dotted #fb6204;
+	background-color: #fff;
+	border-radius: 1px;
+}
 
 
 article, aside, details, figcaption, figure,
