@@ -46,9 +46,19 @@ section, summary, time, mark, audio, video {
 	margin: 2em auto;
 	padding: 1em;
 	width: 100%;
-	border: 5px dotted #fb6204;
+	border: 5px dotted #fb6c95;
 	background-color: #fff;
 	border-radius: 1px;
+}
+
+.otoiawase{
+	margin: 2em auto;
+	padding: 1em;
+	width: 100%;
+	border:5px dotted rgb(215, 138, 147);
+	background-color: #fff;
+	border-radius: 1px;
+
 }
 
 
